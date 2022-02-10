@@ -3,3 +3,4 @@ The user enter a city name and it provides them with the current temperature, mi
 The user can also see the current sky conditions.
 
 
+<img width="1436" alt="Screen Shot 2022-02-10 at 5 33 09 AM" src="https://user-images.githubusercontent.com/88109038/153419689-ec3365a0-709a-49c5-a468-003cfe8e74a5.png">

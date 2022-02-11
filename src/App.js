@@ -45,6 +45,9 @@ function App() {
           : 'app')
         : 'app'}>
       <main>
+        <div className='title'>
+          <h2>Weather App</h2>
+        </div>
         <div className="search-box">
             <input
               type="text"

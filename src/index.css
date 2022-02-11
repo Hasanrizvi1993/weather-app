@@ -5,6 +5,11 @@
   box-sizing: border-box;
 }
 
+.title {
+  color: white;
+  text-align: center;
+}
+
 body {
   font-family: "montseratt", sans-serif;
 }

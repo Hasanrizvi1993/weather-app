@@ -2,7 +2,7 @@ import { type } from '@testing-library/user-event/dist/type';
 import React, { useState } from 'react';
 const api = {
   key: "fb7d32b2fdb2dcce943201ebdb739bc9",
-  base: "http://api.openweathermap.org/data/2.5/",
+  base: "https://api.openweathermap.org/data/2.5/",
 }
 
 function App() {
